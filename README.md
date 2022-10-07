@@ -11,26 +11,26 @@ These Akan names signify the day one is born. According to Akan tradition, each 
 Susan Gicharu
 
 ## Setup instructions 
--git clone https://github.com/Sgicharu/week2_ip.git
--open the code with VS code
--Go live
+- git clone https://github.com/Sgicharu/week2_ip.git
+- open the code with VS code
+- Go live
 
 ## BDD
 As a user, I would like to;
 
--See a  small description of what the application does on the landing page.
--Enter my birthday through a form 
--Choose what gender I am.
--Click the submit button to see what my Akan name would be
+- See a  small description of what the application does on the landing page.
+- Enter my birthday through a form 
+- Choose what gender I am.
+- Click the submit button to see what my Akan name would be
 
 
 ## Technologies used.
 
--JS
--HTML
--GIT
--Bootstrap
--CSS
+- JS
+- HTML
+- GIT
+- Bootstrap
+- CSS
 
 ## Contact information.
 
