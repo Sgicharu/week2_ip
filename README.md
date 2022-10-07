@@ -36,9 +36,8 @@ As a user, I would like to;
 
 suziegicharu@gmail.com
 
-## Live Link
-
-https:/sgicharu.github.io/week2_ip
+## Live Link 
+https://sgicharu.github.io/week2_ip
 
 ## License and Copyright information.
 c) 2022 Sgicharu
