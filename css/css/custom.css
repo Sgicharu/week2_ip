@@ -1,0 +1,50 @@
+[9/8 3:52 PM] David Muchina Ndegwa
+body{
+    background-color: rgb(12, 83, 50);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.content-wrapper{
+    padding: 10px 30px;
+}
+p{
+    text-align: justify;
+}
+h1{
+    text-align: center;
+}
+.highlight{
+    font-weight: 700;
+    color: forestgreen;
+}
+h1, h2{
+    font-weight: 400;
+}
+
+ul li{
+    list-style-type: square;
+    margin-bottom: 10px;
+    margin-left: 50px;
+}
+/* unvisited link */
+a:link {
+    color: rgb(11, 13, 12);
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: rgb(105, 255, 143);
+}
+
+/* selected link */
+a:active {
+    color: blue;
+} 
+
+[9/8 4:31 PM] David Muchina Ndegwa
+ background-image: url("paper.gif");
+
