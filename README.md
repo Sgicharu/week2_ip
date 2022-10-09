@@ -1,6 +1,6 @@
 ## Project name.
 
-Akan Names and its Appelations
+Akan Names
 
 ## Project description.
 Akan names come from a traditional naming system for people from countries such as Togo, Ivory Coast and Ghana.A child’s name is determined by factors surrounding his or her birth. For example, the day of their birth or the manner in which they were born may determine which name they get irrespective of their gender.
