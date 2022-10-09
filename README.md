@@ -17,9 +17,9 @@ Susan Gicharu
 
 ## BDD
 The following will happen on this page;
-
-- Enter my birthday through a form.
-- Choose what gender I am.
+- Enter century of birth eg 20 for 2019
+- Enter year of birth.
+- Enter month of birth.
 - Click the submit button to see what my Akan name would be
 
 
