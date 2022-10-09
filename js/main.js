@@ -11,17 +11,9 @@ function validate() {
        return false;
     }
 
-indexOfTheDay = Math.round(indexOfTheDay);
-var dayTheUserWasBorn = DAYS_OF_THE_WEEK[indexOfTheDay];
-var name = null
-
-if (gender ==='m'){
-    MALE_NAMES
-} else if (gender === 'f'){
-    FEMALE_NAMES
-} else if{
-    alert("invalid gender");
-}
-
-console.log(dayTheUserWasBorn);
-console.log(name)
+    else if( document.myForm.month.value == "" || isNaN( document.myForm.month.value ) || 
+  document.myForm.month.value.length != 2 || document.myForm.month.value > 12  || document.myForm.month.value <= 0){
+     alert( "Please provide your month of birth! between 1 and 12" );
+     document.myForm.month.focus() ;
+     return false;
+  }
