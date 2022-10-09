@@ -20,7 +20,9 @@ The following will happen on this page;
 - Enter century of birth eg 20 for 2019
 - Enter year of birth.
 - Enter month of birth.
-- Click the submit button to see what my Akan name would be
+- Enter date of birth.
+- Select gender
+- Click the submit button to see what your Akan name would be
 
 
 ## Technologies used.
