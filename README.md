@@ -16,9 +16,9 @@ Susan Gicharu
 - Go live
 
 ## BDD
-As a user, I would like to;
+The following will happen on this page;
 
-- Enter my birthday through a form 
+- Enter my birthday through a form.
 - Choose what gender I am.
 - Click the submit button to see what my Akan name would be
 
