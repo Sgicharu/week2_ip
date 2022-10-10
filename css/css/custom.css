@@ -1,12 +1,12 @@
 body{
     background-color: rgb(12, 83, 50);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+} 
 .content-wrapper{
     padding: 10px 30px;
 }
 p{
-    text-align: justify;
+    text-align: center;
 }
 h1{
     text-align: center;
@@ -44,5 +44,5 @@ a:active {
     color: blue;
 } 
  
- background-image: url("paper.gif");
+ background-image: url("akan.jpg");
 
