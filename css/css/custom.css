@@ -44,5 +44,7 @@ a:active {
     color: blue;
 } 
  
- background-image: url("akan.jpg");
+ background-image: url("A.jpg");
+background-repeat: no-repeat;
+background-size: cover;
 
