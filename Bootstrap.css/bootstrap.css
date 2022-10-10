@@ -57,6 +57,9 @@
     color: #212529;
     text-align: center;
     background-color: rgb(114, 116, 110);
+    background-image: url(../images/Akan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   
   [tabindex="-1"]:focus {
